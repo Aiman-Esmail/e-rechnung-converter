@@ -1,0 +1,26 @@
+# KoSIT validator — ملفات ثقيلة لا ترفع على GitHub
+kosit/validator.jar
+kosit/validator.zip
+kosit/validator-1.6.0.jar
+kosit/validator-configuration.zip
+kosit/libs/
+kosit/reports/
+kosit/test_invoice.xml
+kosit/LICENSE
+kosit/NOTICE
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# ملفات اختبار مؤقتة
+test_invoice*.xml
+generate_test.py
+
+# VS Code
+.vscode/
+kosit/
+!kosit/SETUP.md
